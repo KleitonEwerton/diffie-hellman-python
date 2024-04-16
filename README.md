@@ -7,6 +7,7 @@ Criptografia de chave pública e RSA
 
 # Rode o programa principal. O primo grande pode ser alterado na linha 2 do arquivo main.py
 python main.py
-
+#or
+python3 main.py
 
 ```
