@@ -1,5 +1,5 @@
 # Escolha de p deve ser um primo (caso não dará erro) https://www.wolframalpha.com/input?i=primitiveroot+23
-p = 23
+p = 4787
 
 
 import random
